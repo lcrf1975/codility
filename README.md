@@ -1,2 +1,1 @@
-# codility
-Codility Sandbox
+# Codility Sandbox
